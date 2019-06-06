@@ -1,0 +1,20 @@
+{
+
+    "manifest_version": 2,
+    "name": "Borderify",
+    "version": "1.0",
+  
+    "description": "Adds a red border to all webpages matching mozilla.org.",
+  
+    "icons": {
+      "48": "icons/baseline-movie-24px.svg"
+    },
+  
+    "content_scripts": [
+      {
+        "matches": ["*://*.hotstar.com/*"],
+        "js": ["script.js"]
+      }
+    ]
+  
+  }
