@@ -1,13 +1,13 @@
 {
 
     "manifest_version": 2,
-    "name": "Borderify",
+    "name": "CricketKaCrown",
     "version": "1.0",
   
     "description": "Adds a red border to all webpages matching mozilla.org.",
   
     "icons": {
-      "48": "icons/baseline-movie-24px.svg"
+      "48": "icons/baseline-golf_course-24px.svg"
     },
   
     "content_scripts": [
