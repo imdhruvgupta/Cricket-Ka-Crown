@@ -2,9 +2,9 @@
 
     "manifest_version": 2,
     "name": "CricketKaCrown",
-    "version": "1.0",
+    "version": "0.0.1",
   
-    "description": "Adds a red border to all webpages matching mozilla.org.",
+    "description": "Enjoy unlimited Hotstar streaming during world cup matches.",
   
     "icons": {
       "48": "icons/baseline-golf_course-24px.svg"
